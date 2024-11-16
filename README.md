@@ -9,7 +9,7 @@ Technical Team Leader, with broad software engineering and programming skills,
 and a history of delivering high-value software products. I also have a strong
 track-record of innovation at **IBM Research**, including major contributions to the
 technology that underpins IBM's Cloud, PaaS, SaaS, and middleware products and
-strategy (plus 20 US patents and 30 papers/publications.)
+strategy (plus [20 US patents](./patents.md) and [30 papers/publications](./pubs.md).)
 
 But there's another side to me...<br>
 
