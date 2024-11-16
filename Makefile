@@ -2,6 +2,8 @@
 SHELL := /bin/bash
 THIS_DIR := $(dir $(abspath $(lastword $(MAKEFILE_LIST))))
 
+# Push commit and push all local changes to git
+.PHONY: push
 push:
 	git add .
 	sleep 1

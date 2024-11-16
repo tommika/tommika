@@ -1,0 +1,9 @@
+{
+    "markdown.preview.fontSize": 12,
+    "markdown.styles": [
+        "markdown.css"
+    ],
+    "markdown-pdf.styles": [
+        "markdown.css"
+    ]
+}
