@@ -1,5 +1,5 @@
 <!--
-Copyright 2024 Thomas Mikalsen. Subject to the MIT License 
+Copyright (c) 2024 Thomas Mikalsen. Subject to the MIT License 
 -->
 Wanderlog
 =========
