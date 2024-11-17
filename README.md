@@ -49,3 +49,12 @@ algorithms backed by a relational database.
 
 ![alt dolphin](./dolphin/dolphin-icon.png)<br>
 **Dolphin** - Open water adventures in Data Science and Machine Learning!
+
+<br><hr>
+
+![alt toast](./toast/toast-icon.png)<br>
+**Toast** - Experiments writing an Operating System from scratch on Raspberry Pi
+- Preemptive multitasking operating system 
+- Basic-terminal I/O
+- "Concurrent Euclid"-inspired monitor-based synchronization programming model
+- Implemented in C and Assembly (ARM)
