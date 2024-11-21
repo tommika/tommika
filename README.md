@@ -43,7 +43,7 @@ technology and skills that are not immediately required for my day job.
 
 ![alt giraph](./giraph/giraph-icon.png)<br>
 **Giraph** - Experiments implementing efficient graph data structures and
-algorithms backed by a relational database.
+algorithms.
 
 <br><hr>
 
