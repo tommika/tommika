@@ -24,12 +24,12 @@ technology and skills that are not immediately required for my day job.
 
 ## What I'm up to ...
 
-![alt codework](./codework/codework-icon.png)<br>
-[*Codework*](https://www.codework.us/) - Modern tools for a cutting-edge Computer Science classroom.
+[![alt codework](./codework/codework-icon.png)<br>
+*Codework*](https://www.codework.us/) - Modern tools for a cutting-edge Computer Science classroom.
 <br><br><hr>
 
-![alt wanderlog](./wanderlog/wanderlog-icon.png) <sup>*</sup><br>
-[**Wanderlog** ](./wanderlog/wanderlog.md) - AI assisted outdoor activity logging.<br>
+[![alt wanderlog](./wanderlog/wanderlog-icon.png) <sup>*</sup><br>
+**Wanderlog**](./wanderlog/wanderlog.md) - AI assisted outdoor activity logging.<br>
 
 <i>For those who wander ... <br>
 &emsp; but are not necessarily lost!</i>
@@ -66,4 +66,4 @@ algorithms.
 Notes
 -----
 
-\* Logo images are AI-generated using [Google Gemini](https://gemini.google.com/)
+\* Project logo images are AI-generated using [Google Gemini](https://gemini.google.com/)
