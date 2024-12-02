@@ -32,7 +32,6 @@ JQuery, DHTML
 - Hosted on AWS leveraging EC2 and Bedrock LLM service
 
 
-
 Notes
 -----
 
