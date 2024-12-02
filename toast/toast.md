@@ -4,7 +4,7 @@ Copyright (c) 2024 Thomas Mikalsen. Subject to the MIT License
 Toast
 =====
 
-![alt toast](./toast-icon.png)  <sup>*</sup><br>
+![alt toast](./toast-icon.png)<br>
 
 **Toast** - Experiments writing an Operating System from scratch on Raspberry Pi
 - Preemptive multitasking operating system 

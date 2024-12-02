@@ -4,7 +4,7 @@ Copyright (c) 2024 Thomas Mikalsen. Subject to the MIT License
 Giraph
 ======
 
-![alt giraph](./giraph-icon.png)  <sup>*</sup><br>
+![alt giraph](./giraph-icon.png)<br>
 
 **Giraph** - Applications of graph data structures and algorithms.
 

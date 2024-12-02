@@ -4,7 +4,7 @@ Copyright (c) 2024 Thomas Mikalsen. Subject to the MIT License
 Gorilla
 =======
 
-![alt gorilla](./gorilla-icon.png)  <sup>*</sup><br>
+![alt gorilla](./gorilla-icon.png)<br>
 **Gorilla** - Computer Science workouts, in Go!
 
 *Elementary Algorithms and Data Structures*

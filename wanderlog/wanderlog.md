@@ -4,7 +4,7 @@ Copyright (c) 2024 Thomas Mikalsen. Subject to the MIT License
 Wanderlog
 =========
 
-![alt wanderlog](./wanderlog-icon.png) \*<br>
+![alt wanderlog](./wanderlog-icon.png)<br>
 For those who wander ... but are not necessarily lost!
 
 * Record hiking activities and share the experience, with the help of Generative AI
@@ -35,5 +35,5 @@ JQuery, DHTML
 Notes
 -----
 
-\* The Wanderlog logo image is AI-generated using [Google Gemini](https://gemini.google.com/)
+\* The Wanderlog icon image is AI-generated using [Google Gemini](https://gemini.google.com/)
 
