@@ -37,7 +37,7 @@ technology and skills that are not immediately required for my day job.
 <br><hr>
 
 ![alt gorilla](./gorilla/gorilla-icon.png)  <sup>*</sup><br>
-**Gorilla** - Some foundational and reusable software written in Go.
+**Gorilla** - Computer Science workouts, in Go!
 
 <br><hr>
 
