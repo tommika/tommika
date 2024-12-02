@@ -28,27 +28,27 @@ technology and skills that are not immediately required for my day job.
 *Codework*](https://www.codework.us/) - Modern tools for a cutting-edge Computer Science classroom.
 <br><br><hr>
 
-[![alt wanderlog](./wanderlog/wanderlog-icon.png) <sup>*</sup><br>
+[![alt wanderlog](./wanderlog/wanderlog-icon.png)<br>
 **Wanderlog**](./wanderlog/wanderlog.md) - AI assisted outdoor activity logging.<br> <i>For those who wander ... but are not necessarily lost!</i>
 
 <br><hr>
 
-[![alt gorilla](./gorilla/gorilla-icon.png)  <sup>*</sup><br>
+[![alt gorilla](./gorilla/gorilla-icon.png)<br>
 **Gorilla**](./gorilla/gorilla.md) - Computer Science workouts, in Go!
 
 <br><hr>
 
-[![alt giraph](./giraph/giraph-icon.png) <sup>*</sup><br>
+[![alt giraph](./giraph/giraph-icon.png)<br>
 **Giraph**](./giraph/giraph.md) - Applications of graph data structures and algorithms.
 
 <br><hr>
 
-[![alt toast](./toast/toast-icon.png) <sup>*</sup><br>
+[![alt toast](./toast/toast-icon.png)<br>
 **Toast**](./toast/toast.md) - Experiments writing an Operating System from scratch on Raspberry Pi
 
 <br><hr>
 
-![alt dolphin](./dolphin/dolphin-icon.png) <sup>*</sup><br>
+![alt dolphin](./dolphin/dolphin-icon.png)<br>
 **Dolphin** - Open water adventures in Data Science and Machine Learning!
 
 
@@ -56,4 +56,4 @@ technology and skills that are not immediately required for my day job.
 Notes
 -----
 
-\* Project logo images are AI-generated using [Google Gemini](https://gemini.google.com/)
+\* Project icon images are AI-generated using [Google Gemini](https://gemini.google.com/)
