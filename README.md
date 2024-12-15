@@ -26,10 +26,16 @@ technology and skills that are not immediately required for my day job.
 
 [![alt codework](./codework/codework-icon.png)<br>
 *Codework*](https://www.codework.us/) - Modern tools for a cutting-edge Computer Science classroom.
-<br><br><hr>
+
+<br><hr>
 
 [![alt wanderlog](./wanderlog/wanderlog-icon.png)<br>
 **Wanderlog**](./wanderlog/wanderlog.md) - AI assisted outdoor activity logging.<br> <i>For those who wander ... but are not necessarily lost!</i>
+
+<br><hr>
+
+[![alt rattlebox](./rattlebox/rattlebox-icon.png)<br>
+**Rattlebox**](https://github.com/tommika/rattlebox/blob/main/README.md) - A GPS Toolbox!
 
 <br><hr>
 
