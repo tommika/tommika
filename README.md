@@ -18,9 +18,9 @@ But there's another side to me...<br>
 
 &emsp; **I am a lifetime learner that loves to hack!**<br>
 
-This need to learn fuels my professional success. But more
-importantly, it drives me to pursue personal projects and explore
-technology and skills that are not immediately required for my day job.  
+This need to learn fuels my professional success. But more importantly, it
+drives me to pursue personal projects and explore technology and skills that are
+not immediately required for my day job.
 
 ## What I've been up to ...
 
