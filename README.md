@@ -20,9 +20,9 @@ But there's another side to me...<br>
 
 This need to learn fuels my professional success. But more importantly, it
 drives me to pursue personal projects and explore technology and skills that are
-not immediately required for my day job.
+not immediately required for my day job:
 
-## What I've been up to ...
+<br><hr>
 
 [![alt codework](./codework/codework-icon.png)<br>
 *Codework*](https://www.codework.us/) - Modern tools for a cutting-edge Computer Science classroom.
