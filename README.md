@@ -45,6 +45,11 @@ coverage.
 
 <br><hr>
 
+[![alt toast](./toast/toast-icon.png)<br>
+**Toast**](https://github.com/tommika/toast/blob/main/README.md) - Experiments writing an Operating System from scratch on Raspberry Pi
+
+<br><hr>
+
 [![alt gorilla](./gorilla/gorilla-icon.png)<br>
 **Gorilla**](./gorilla/gorilla.md) - Computer Science workouts, in Go!
 
@@ -52,11 +57,6 @@ coverage.
 
 [![alt giraph](./giraph/giraph-icon.png)<br>
 **Giraph**](./giraph/giraph.md) - Applications of graph data structures and algorithms.
-
-<br><hr>
-
-[![alt toast](./toast/toast-icon.png)<br>
-**Toast**](./toast/toast.md) - Experiments writing an Operating System from scratch on Raspberry Pi
 
 <br><hr>
 
