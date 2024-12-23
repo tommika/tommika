@@ -39,6 +39,12 @@ not immediately required for my day job:
 
 <br><hr>
 
+[![alt nuthatch](./nuthatch/nuthatch-icon.png)<br>
+**Nuthatch**](https://github.com/tommika/nuthatch/blob/main/README.md) - A Little Web Socket server (HTTP/1.1) written in C, with really good test
+coverage.
+
+<br><hr>
+
 [![alt gorilla](./gorilla/gorilla-icon.png)<br>
 **Gorilla**](./gorilla/gorilla.md) - Computer Science workouts, in Go!
 
