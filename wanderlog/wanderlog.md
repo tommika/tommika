@@ -31,6 +31,17 @@ JQuery, DHTML
 - Command line tools for admin and user scripting/automation
 - Hosted on AWS leveraging EC2 and Bedrock LLM service
 
+## iOS apps
+### Test Data Generator
+Generate Test Data (eg when using iOS simulator in Xcode)
+> ![Wanderlog ios-1](wlg-ios-1.png "Wanderlog Test Data Generator")
+
+### Wanderlog-sync App
+Syncrhonize workout activity with the Wanderlog
+> ![Wanderlog ios-2](wlg-ios-2.png "Wanderlog Sync App")
+
+> ![Wanderlog ios-3](wlg-ios-3.png "Wanderlog Sync App")
+
 
 Notes
 -----
