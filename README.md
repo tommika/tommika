@@ -34,6 +34,11 @@ not immediately required for my day job:
 
 <br><hr>
 
+[![alt gorilla](./gorilla/gorilla-icon.png)<br>
+**Gorilla**](https://github.com/tommika/gorilla/blob/main/README.md) - Computer Science workouts, in Go!
+
+<br><hr>
+
 [![alt rattlebox](./rattlebox/rattlebox-icon.png)<br>
 **Rattlebox**](https://github.com/tommika/rattlebox/blob/main/README.md) - A GPS Toolbox!
 
@@ -47,11 +52,6 @@ coverage.
 
 [![alt toast](./toast/toast-icon.png)<br>
 **Toast**](https://github.com/tommika/toast/blob/main/README.md) - Experiments writing an Operating System from scratch on Raspberry Pi
-
-<br><hr>
-
-[![alt gorilla](./gorilla/gorilla-icon.png)<br>
-**Gorilla**](./gorilla/gorilla.md) - Computer Science workouts, in Go!
 
 <br><hr>
 
