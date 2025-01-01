@@ -16,7 +16,7 @@ strategy (and [20 US patents](./patents.md) and [30 papers/publications](./pubs.
 
 But there's another side to me...<br>
 
-&emsp; **I am a lifetime learner that loves to hack!**<br>
+&emsp; **I am a lifetime learner and programmer at heart!**
 
 This need to learn fuels my professional success. But more importantly, it
 drives me to pursue personal projects and explore technology and skills that are
