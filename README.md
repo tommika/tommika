@@ -7,10 +7,11 @@ Tom Mikalsen
 About me
 --------
 In my professional life, as a **Senior Technical Staff Member** (STSM) at **IBM**,
-I am recognized as an accomplished Software Engineer, Systems Architect and
-Technical Team Leader, with broad software engineering and programming skills,
-and a history of delivering high-value software products. I also have a strong
-track-record of innovation at **IBM Research**, including major contributions to the
+I am recognized as an accomplished Software Engineer, Technical Team Leader, and committed Mentor,
+with broad software engineering and programming skills, and a history of
+delivering high-quality, highly-available systems at scale with demanding
+security and compliance requirements. I also have a strong track-record of
+innovation at **IBM Research**, including major contributions to the
 technology that underpins IBM's Cloud, PaaS, SaaS, and middleware products and
 strategy (and [20 US patents](./patents.md) and [30 papers/publications](./pubs.md).)
 
