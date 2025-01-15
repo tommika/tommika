@@ -17,10 +17,10 @@ to the Wanderlog Web Service
 
 All you have to do is ... *wander*!
 
+## Wanderlog Responsive Web App
+
 > ![Wanderlog screenshot-1](wlg-screenshot-1.jpg "Wanderlog")
 > ![Wanderlog screenshot-2](wlg-screenshot-2.jpg "Wanderlog")
-
-
 
 ## iOS apps
 ### Test Data Generator
