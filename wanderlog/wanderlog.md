@@ -42,9 +42,9 @@ Implementation details
 > ![Wanderlog Simple Deployment](wlg-deploy-simple.png "Wanderlog Simple Deployment")
 
 
-- Meta's Llama-3 model to automatically generate activity summaries from GPS data and activity statistics
-- Backend APIs, app server and job execution implemented in Java (w/ SpringBoot, Maven) and leveraging CouchDB/Cloudant, Nginx, Docker 
-- Responsive Web app front-end using OpenStreetMap/OpenLayers, JavaScript, Bootstrap, JQuery, DHTML
+- Meta's Llama-3 model (AWS Bedrock) automatically generates natural-language activity summaries from GPS data and activity statistics
+- Backend APIs, app server and background jobs implemented in Java (w/ SpringBoot, Maven) and leveraging CouchDB/Cloudant, Nginx, Docker 
+- Responsive Web app front-end implemented using OpenStreetMap/OpenLayers, JavaScript, Bootstrap, JQuery, DHTML
 - Mobile app built for iOS using Objective-C, HealthKit, MapKit
 - Command line tools for admin and user scripting/automation
 - Hosted on AWS leveraging EC2, Lambda, Route53, and Bedrock LLM service
