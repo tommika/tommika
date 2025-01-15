@@ -24,13 +24,14 @@ All you have to do is ... *wander*!
 
 ## iOS apps
 ### Test Data Generator
-Generate Test Data (eg when using iOS simulator in Xcode)
+When testing the Wanderlog iOS app in the xCode Simulator, there is a need for 
+HealthKit "workout" activity data available on the simulated device.  The
+Wanderlog Test Data Generator iOS app allows you to generate this data:
 > ![Wanderlog ios-1](wlg-ios-1.png "Wanderlog Test Data Generator")
 
 ### Wanderlog-sync App
-Syncrhonize workout activity with the Wanderlog
+Using the Wanderlog iOS app to synchronize data with the Wanderlog server
 > ![Wanderlog ios-2](wlg-ios-2.png "Wanderlog Sync App")
-
 > ![Wanderlog ios-3](wlg-ios-3.png "Wanderlog Sync App")
 
 Implementation details
