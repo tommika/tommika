@@ -43,7 +43,7 @@ Implementation details
 
 
 - Meta's Llama-3 model to automatically generate activity summaries from GPS data and activity statistics
-- Backend APIs, app server and job execution implemented in Java and leveraging CouchDB/Cloudant, Nginx, Docker 
+- Backend APIs, app server and job execution implemented in Java (w/ SpringBoot, Maven) and leveraging CouchDB/Cloudant, Nginx, Docker 
 - Responsive Web app front-end using OpenStreetMap/OpenLayers, JavaScript, Bootstrap, JQuery, DHTML
 - Mobile app built for iOS using Objective-C, HealthKit, MapKit
 - Command line tools for admin and user scripting/automation
