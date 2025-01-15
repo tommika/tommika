@@ -32,41 +32,54 @@ not immediately required for my day job:
 
 [![alt wanderlog](./wanderlog/wanderlog-icon.png)<br>
 **Wanderlog**](./wanderlog/wanderlog.md) - AI assisted outdoor activity logging.<br> <i>For those who wander ... but are not necessarily lost!</i>
+&dagger;
 
 <br><hr>
 
 [![alt gorilla](./gorilla/gorilla-icon.png)<br>
 **Gorilla**](https://github.com/tommika/gorilla/blob/main/README.md) - Computer Science workouts, in Go!
+&dagger;
 
 <br><hr>
 
 [![alt rattlebox](./rattlebox/rattlebox-icon.png)<br>
 **Rattlebox**](https://github.com/tommika/rattlebox/blob/main/README.md) - A GPS Toolbox!
+&dagger;
 
 <br><hr>
 
 [![alt nuthatch](./nuthatch/nuthatch-icon.png)<br>
 **Nuthatch**](https://github.com/tommika/nuthatch/blob/main/README.md) - A Little Web Socket server (HTTP/1.1) written in C, with really good test
 coverage.
+&dagger;
 
 <br><hr>
 
 [![alt toast](./toast/toast-icon.png)<br>
 **Toast**](https://github.com/tommika/toast/blob/main/README.md) - Experiments writing an Operating System from scratch on Raspberry Pi
+&dagger;
+
+<br><hr>
+
+[![alt gobrot](./icons/gobrot-icon.png)<br>
+**GoBrot**](https://github.com/tommika/gobrot/blob/main/README.md) - An interactive Mandelbrot Set explorer written in Go using the SDL2 library for platform-independent graphics.
+&dagger;
 
 <br><hr>
 
 [![alt giraph](./giraph/giraph-icon.png)<br>
 **Giraph**](./giraph/giraph.md) - Applications of graph data structures and algorithms.
+&dagger;
 
 <br><hr>
 
 ![alt dolphin](./dolphin/dolphin-icon.png)<br>
 **Dolphin** - Open water adventures in Data Science and Machine Learning!
+&dagger;
 
 
 <br><hr>
 Notes
 -----
 
-\* Project icon images are AI-generated using [Google Gemini](https://gemini.google.com/)
+&dagger; Project icon AI-generated using [Google Gemini](https://gemini.google.com/)
