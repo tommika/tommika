@@ -6,6 +6,7 @@ Wanderlog
 
 ![alt wanderlog](./wanderlog-icon.png)<br>
 For those who wander ... but are not necessarily lost!
+&dagger;
 
 * Record hiking activities and share the experience, with the help of Generative AI
 * Use your mobile device's native activity tracker (e.g., Apple iPhone/Watch
@@ -19,17 +20,7 @@ All you have to do is ... *wander*!
 > ![Wanderlog screenshot-1](wlg-screenshot-1.jpg "Wanderlog")
 > ![Wanderlog screenshot-2](wlg-screenshot-2.jpg "Wanderlog")
 
-Some implementation details...
 
-- Currently using Meta's Llama-3 model to automatically generate activity
-summaries from GPS data and activity statistics
-- Backend APIs and app server implemented in Java and leveraging CouchDB, Nginx,
-Docker 
-- Responsive Web app front-end using OpenStreetMap/OpenLayers, JavaScript, Bootstrap,
-JQuery, DHTML
-- Mobile app built for iOS using Objective-C, HealthKit, MapKit
-- Command line tools for admin and user scripting/automation
-- Hosted on AWS leveraging EC2 and Bedrock LLM service
 
 ## iOS apps
 ### Test Data Generator
@@ -42,9 +33,19 @@ Syncrhonize workout activity with the Wanderlog
 
 > ![Wanderlog ios-3](wlg-ios-3.png "Wanderlog Sync App")
 
+Implementation details
+----------------------
 
-Notes
------
+> ![Wanderlog Simple Deployment](wlg-deploy-simple.png "Wanderlog Simple Deployment")
 
-\* The Wanderlog icon image is AI-generated using [Google Gemini](https://gemini.google.com/)
+
+- Meta's Llama-3 model to automatically generate activity summaries from GPS data and activity statistics
+- Backend APIs, app server and job execution implemented in Java and leveraging CouchDB/Cloudant, Nginx, Docker 
+- Responsive Web app front-end using OpenStreetMap/OpenLayers, JavaScript, Bootstrap, JQuery, DHTML
+- Mobile app built for iOS using Objective-C, HealthKit, MapKit
+- Command line tools for admin and user scripting/automation
+- Hosted on AWS leveraging EC2, Lambda, Route53, and Bedrock LLM service
+<hr>
+
+&dagger; The Wanderlog icon is AI-generated using [Google Gemini](https://gemini.google.com/)
 
