@@ -20,6 +20,8 @@ All you have to do is ... *wander*!
 ## Wanderlog Responsive Web App
 
 > ![Wanderlog screenshot-1](wlg-screenshot-1.jpg "Wanderlog")
+
+Natural-language summary generated from activity data (e.g., GPS data):
 > ![Wanderlog screenshot-2](wlg-screenshot-2.jpg "Wanderlog")
 
 ## iOS apps
