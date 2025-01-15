@@ -63,7 +63,6 @@ coverage.
 
 [![alt gobrot](./icons/gobrot-icon.png)<br>
 **GoBrot**](https://github.com/tommika/gobrot/blob/main/README.md) - An interactive Mandelbrot Set explorer written in Go using the SDL2 library for platform-independent graphics.
-&dagger;
 
 <br><hr>
 
